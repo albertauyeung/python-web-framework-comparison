@@ -1,0 +1,10 @@
+Flask==0.12.2
+numpy==1.14.1
+aiohttp==2.3.10
+requests==2.9.1
+cherrypy==18.0.1
+falcon==1.4.1
+locustio==0.9.0
+sanic==0.8.3
+scikit_learn==0.20.0
+uvloop==0.11.2

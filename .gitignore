@@ -1,0 +1,5 @@
+*.pyc
+*.log
+*.pkl
+env
+__pycach__
